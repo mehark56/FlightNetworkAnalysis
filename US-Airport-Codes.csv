@@ -1,0 +1,187 @@
+Airport,Code,State,State Name,Code
+Birmingham International Airport ,BHM ,Alabama ,Alabama ,AL 
+Dothan Regional Airport ,DHM ,Alabama ,Alaska ,AK 
+Huntsville International Airport ,HSV ,Alabama ,Arizona ,AZ 
+Mobile ,MOB ,Alabama ,Arkansas ,AR 
+Montgomery ,MGM ,Alabama ,California ,CA 
+Anchorage International Airport ,ANC ,Alaska ,Colorado ,CO 
+Fairbanks International Airport ,FAI ,Alaska ,Connecticut ,CT 
+Juneau International Airport ,JNU ,Alaska ,District of Columbia ,DC 
+Flagstaff ,FLG ,Arizona ,Florida ,FL 
+"Phoenix, Phoenix Sky Harbor International Airport ",PHX ,Arizona ,Georgia ,GA 
+Tucson International Airport ,TUS ,Arizona ,Hawaii ,HI 
+Yuma International Airport ,YUM ,Arizona ,Idaho ,ID 
+Fayetteville ,FYV ,Arkansas ,Illinois ,IL 
+Little Rock National Airport ,LIT ,Arkansas ,Indiana ,IN 
+Burbank ,BUR ,California ,Iowa ,IA 
+Fresno ,FAT ,California ,Kansas ,KS 
+Long Beach ,LGB ,California ,Kentucky ,KY 
+Los Angeles International Airport ,LAX ,California ,Louisiana ,LA 
+Oakland ,OAK ,California ,Maine ,ME 
+Ontario ,ONT ,California ,Maryland ,MD 
+Palm Springs ,PSP ,California ,Massachusetts ,MA 
+Sacramento ,SMF ,California ,Michigan ,MI 
+San Diego ,SAN ,California ,Minnesota ,MN 
+San Francisco International Airport ,SFO ,California ,Mississippi ,MS 
+San Jose ,SJC ,California ,Missouri ,MO 
+Santa Ana ,SNA ,California ,Montana ,MT 
+Aspen ,ASE ,Colorado ,Nebraska ,NE 
+Colorado Springs ,COS ,Colorado ,Nevada ,NV 
+Denver International Airport ,DEN ,Colorado ,New Hampshire ,NH 
+Grand Junction ,GJT ,Colorado ,New Jersey ,NJ 
+Pueblo ,PUB ,Colorado ,New Mexico ,NM 
+Hartford ,BDL ,Connecticut ,New York ,NY 
+"Washington, Dulles International Airport ",IAD ,District of Columbia ,North Carolina ,NC 
+Washington National Airport ,DCA ,District of Columbia ,North Dakota ,ND 
+Daytona Beach ,DAB ,Florida ,Ohio ,OH 
+Fort Lauderdale-Hollywood International Airport ,FLL ,Florida ,Oklahoma ,OK 
+Fort Meyers ,RSW ,Florida ,Oregon ,OR 
+Jacksonville ,JAX ,Florida ,Pennsylvania ,PA 
+Miami International Airport ,MIA ,Florida ,Rhode Island ,RI 
+Orlando ,MCO ,Florida ,South Carolina ,SC 
+Pensacola ,PNS ,Florida ,South Dakota ,SD 
+St. Petersburg ,PIE ,Florida ,Tennessee ,TN 
+Sarasota ,SRQ ,Florida ,Texas ,TX 
+Tampa ,TPA ,Florida ,Utah ,UT 
+West Palm Beach ,PBI ,Florida ,Vermont ,VT 
+Panama City-Bay County International Airport ,PFN ,Florida ,Virginia ,VA 
+Atlanta Hartsfield International Airport ,ATL ,Georgia ,Washington ,WA 
+Augusta ,AGS ,Georgia ,West Virginia ,WV 
+Savannah ,SAV ,Georgia ,Wisconsin ,WI 
+Hilo ,ITO ,Hawaii ,Wyoming ,WY 
+Honolulu International Airport ,HNL ,Hawaii ,,
+Kahului ,OGG ,Hawaii ,,
+Kailua ,KOA ,Hawaii ,,
+Lihue ,LIH ,Hawaii ,,
+Boise ,BOI ,Idaho ,,
+Chicago Midway Airport ,MDW ,Illinois ,,
+"Chicago, O'Hare International Airport Airport ",ORD ,Illinois ,,
+Moline ,MLI ,Illinois ,,
+Peoria ,PIA ,Illinois ,,
+Evansville ,EVV ,Indiana ,,
+Fort Wayne ,FWA ,Indiana ,,
+Indianapolis International Airport ,IND ,Indiana ,,
+South Bend ,SBN ,Indiana ,,
+Cedar Rapids ,CID ,Iowa ,,
+Des Moines ,DSM ,Iowa ,,
+Wichita ,ICT ,Kansas ,,
+Lexington ,LEX ,Kentucky ,,
+Louisville ,SDF ,Kentucky ,,
+Baton Rouge ,BTR ,Louisiana ,,
+New Orleans International Airport ,MSY ,Louisiana ,,
+Shreveport ,SHV ,Louisiana ,,
+Augusta ,AUG ,Maine ,,
+Bangor ,BGR ,Maine ,,
+Portland ,PWM ,Maine ,,
+Baltimore ,BWI ,Maryland ,,
+"Boston, Logan International Airport ",BOS ,Massachusetts ,,
+Hyannis ,HYA ,Massachusetts ,,
+Nantucket ,ACK ,Massachusetts ,,
+Worchester ,ORH ,Massachusetts ,,
+Battlecreek ,BTL ,Michigan ,,
+Detroit Metropolitan Airport ,DTW ,Michigan ,,
+Detroit ,DET ,Michigan ,,
+Flint ,FNT ,Michigan ,,
+Grand Rapids ,GRR ,Michigan ,,
+Kalamazoo-Battle Creek International Airport ,AZO ,Michigan ,,
+Lansing ,LAN ,Michigan ,,
+Saginaw ,MBS ,Michigan ,,
+Duluth ,DLH ,Minnesota ,,
+Minneapolis/St.Paul International Airport ,MSP ,Minnesota ,,
+Rochester ,RST ,Minnesota ,,
+Gulfport ,GPT ,Mississippi ,,
+Jackson ,JAN ,Mississippi ,,
+Kansas City ,MCI ,Missouri ,,
+"St Louis, Lambert International Airport ",STL ,Missouri ,,
+Springfield ,SGF ,Missouri ,,
+Billings ,BIL ,Montana ,,
+Lincoln ,LNK ,Nebraska ,,
+Omaha ,OMA ,Nebraska ,,
+"Las Vegas, Las Vegas McCarran International Airport ",LAS ,Nevada ,,
+Reno-Tahoe International Airport ,RNO ,Nevada ,,
+Manchester ,MHT ,New Hampshire ,,
+Atlantic City International Airport ,ACY ,New Jersey ,,
+Newark International Airport ,EWR ,New Jersey ,,
+Trenton ,TTN ,New Jersey ,,
+Albuquerque International Airport ,ABQ ,New Mexico ,,
+Alamogordo ,ALM ,New Mexico ,,
+Albany International Airport ,ALB ,New York ,,
+Buffalo ,BUF ,New York ,,
+Islip ,ISP ,New York ,,
+"New York, John F Kennedy International Airport ",JFK ,New York ,,
+"New York, La Guardia Airport ",LGA ,New York ,,
+Newburgh ,SWF ,New York ,,
+Rochester ,ROC ,New York ,,
+Syracuse ,SYR ,New York ,,
+Westchester ,HPN ,New York ,,
+Asheville ,AVL ,North Carolina ,,
+Charlotte/Douglas International Airport ,CLT ,North Carolina ,,
+Fayetteville ,FAY ,North Carolina ,,
+Greensboro ,GSO ,North Carolina ,,
+Raleigh ,RDU ,North Carolina ,,
+Winston-Salem ,INT ,North Carolina ,,
+Bismark ,BIS ,North Dakota ,,
+Fargo ,FAR ,North Dakota ,,
+Akron ,CAK ,Ohio ,,
+Cincinnati ,CVG ,Ohio ,,
+Cleveland ,CLE ,Ohio ,,
+Columbus ,CMH ,Ohio ,,
+Dayton ,DAY ,Ohio ,,
+Toledo ,TOL ,Ohio ,,
+Oklahoma City ,OKC ,Oklahoma ,,
+Tulsa ,TUL ,Oklahoma ,,
+Eugene ,EUG ,Oregon ,,
+Portland International Airport ,PDX ,Oregon ,,
+"Portland, Hillsboro Airport ",HIO ,Oregon ,,
+Salem ,SLE ,Oregon ,,
+Allentown ,ABE ,Pennsylvania ,,
+Erie ,ERI ,Pennsylvania ,,
+Harrisburg ,MDT ,Pennsylvania ,,
+Philadelphia ,PHL ,Pennsylvania ,,
+Pittsburgh ,PIT ,Pennsylvania ,,
+Scranton ,AVP ,Pennsylvania ,,
+Providence - T.F. Green Airport ,PVD ,Rhode Island ,,
+Charleston ,CHS ,South Carolina ,,
+Columbia ,CAE ,South Carolina ,,
+Greenville ,GSP ,South Carolina ,,
+Myrtle Beach ,MYR ,South Carolina ,,
+Pierre ,PIR ,South Dakota ,,
+Rapid City ,RAP ,South Dakota ,,
+Sioux Falls ,FSD ,South Dakota ,,
+Bristol ,TRI ,Tennessee ,,
+Chattanooga ,CHA ,Tennessee ,,
+Knoxville ,TYS ,Tennessee ,,
+Memphis ,MEM ,Tennessee ,,
+Nashville ,BNA ,Tennessee ,,
+Amarillo ,AMA ,Texas ,,
+Austin Bergstrom International Airport ,AUS ,Texas ,,
+Corpus Christi ,CRP ,Texas ,,
+Dallas Love Field Airport ,DAL ,Texas ,,
+Dallas/Fort Worth International Airport ,DFW ,Texas ,,
+El Paso ,ELP ,Texas ,,
+"Houston, William B Hobby Airport ",HOU ,Texas ,,
+"Houston, George Bush Intercontinental Airport ",IAH ,Texas ,,
+Lubbock ,LBB ,Texas ,,
+Midland ,MAF ,Texas ,,
+San Antonio International Airport ,SAT ,Texas ,,
+Salt Lake City ,SLC ,Utah ,,
+Burlington ,BTV ,Vermont ,,
+Montpelier ,MPV ,Vermont ,,
+Rutland ,RUT ,Vermont ,,
+Dulles ,IAD ,Virginia ,,
+Newport News ,PHF ,Virginia ,,
+Norfolk ,ORF ,Virginia ,,
+Richmond ,RIC ,Virginia ,,
+Roanoke ,ROA ,Virginia ,,
+"Pasco, Pasco/Tri-Cities Airport ",PSC ,Washington ,,
+"Seattle, Tacoma International Airport ",SEA ,Washington ,,
+Spokane International Airport ,GEG ,Washington ,,
+Charleston ,CRW ,West Virginia ,,
+Clarksburg ,CKB ,West Virginia ,,
+Green Bay ,GRB ,Wisconsin ,,
+Madison ,MSM ,Wisconsin ,,
+Milwaukee ,MKE ,Wisconsin ,,
+Casper ,CPR ,Wyoming ,,
+Cheyenne ,CYS ,Wyoming ,,
+Jackson Hole ,JAC ,Wyoming ,,
+Rock Springs ,RKS ,Wyoming ,,
