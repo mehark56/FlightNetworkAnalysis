@@ -81,9 +81,7 @@ The main script, `flight.py`, leverages Streamlit for an interactive web applica
 
 Feel free to fork the repository, make improvements, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
