@@ -77,9 +77,6 @@ The main script, `flight.py`, leverages Streamlit for an interactive web applica
 - **`state_code.pkl`**: Maps airport codes to state names.
 - **`nearairport.pkl`**: Contains information about nearby airports.
 
-## Contributing
-
-Feel free to fork the repository, make improvements, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 
 
